@@ -1,3 +1,5 @@
+import java.util.HashMap;
+
 class Solution {
     public boolean checkInclusion(String s1, String s2) {
         HashMap<Character, Integer> dict = new HashMap<>();
