@@ -3,3 +3,4 @@
 | Date  | Question |
 | ----- | -------- | 
 | Jan 1 | [290. Word Problem](https://leetcode.com/problems/word-pattern/) |
+| Jan 2 | [520. Detect Capitals](https://leetcode.com/problems/detect-capital/description/) |
