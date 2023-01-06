@@ -1,3 +1,6 @@
+import java.util.HashMap;
+import java.util.Map;
+
 class Solution {
     public int minimumRounds(int[] tasks) {
     int ans = 0;
