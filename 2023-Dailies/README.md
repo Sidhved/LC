@@ -10,4 +10,5 @@
 | Jan 6 | [1833. Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/description/) |
 | Jan 7 | [134. Gas Station](https://leetcode.com/problems/gas-station/) |
 | Jan 8 | [149. Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/) |
+| Jan 9 | [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) |
 | ----- | -------- |
