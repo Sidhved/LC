@@ -15,4 +15,5 @@
 | Jan 11 | [1443. Minimum Time to Collect All Apples in a Tree](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/) |
 | Jan 12 | [1519. Number of Nodes in the Sub-Tree With the Same Label](https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/) |
 | Jan 13 | [2246. Longest Path With Different Adjacent Characters] (https://leetcode.com/problems/longest-path-with-different-adjacent-characters/) |
+| Jan 14 | [1061. Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/) |
 | ----- | -------- |
