@@ -17,4 +17,5 @@
 | Jan 13 | [2246. Longest Path With Different Adjacent Characters] (https://leetcode.com/problems/longest-path-with-different-adjacent-characters/) |
 | Jan 14 | [1061. Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/) |
 | Jan 15 | [2421. Number of Good Paths](https://leetcode.com/problems/number-of-good-paths/) |
+| Jan 16 | [57. Insert Interval](https://leetcode.com/problems/insert-interval/) |
 | ----- | -------- |
