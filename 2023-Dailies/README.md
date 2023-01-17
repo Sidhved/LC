@@ -18,4 +18,5 @@
 | Jan 14 | [1061. Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/) |
 | Jan 15 | [2421. Number of Good Paths](https://leetcode.com/problems/number-of-good-paths/) |
 | Jan 16 | [57. Insert Interval](https://leetcode.com/problems/insert-interval/) |
+| Jan 17 | [926. Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/description/) |
 | ----- | -------- |
