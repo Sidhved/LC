@@ -20,4 +20,5 @@
 | Jan 16 | [57. Insert Interval](https://leetcode.com/problems/insert-interval/) |
 | Jan 17 | [926. Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/description/) |
 | Jan 18 | [918. Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/description/) |
+| Jan 19 | [974. Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/description/) |
 | ----- | -------- |
