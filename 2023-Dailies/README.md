@@ -25,4 +25,5 @@
 | Jan 21 | [93. Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/description/) |
 | Jan 22 | [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/description/) |
 | Jan 23 | [997. Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/description/) |
+| Jan 24 | [909. Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/description/) |
 | ----- | -------- |
