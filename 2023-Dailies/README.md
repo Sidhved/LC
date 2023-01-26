@@ -27,4 +27,5 @@
 | Jan 23 | [997. Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/description/) |
 | Jan 24 | [909. Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/description/) |
 | Jan 25 | [2359. Find Closest Node to Given Two Nodes](https://leetcode.com/problems/find-closest-node-to-given-two-nodes/description/) |
+| Jan 26 | [787. Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/) |
 | ----- | -------- |
