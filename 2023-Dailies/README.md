@@ -29,4 +29,5 @@
 | Jan 25 | [2359. Find Closest Node to Given Two Nodes](https://leetcode.com/problems/find-closest-node-to-given-two-nodes/description/) |
 | Jan 26 | [787. Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/) |
 | Jan 27 | [472. Concatenated Strings](https://leetcode.com/problems/concatenated-words/description/) |
+| Jan 28 | [352. Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/description/) |
 | ----- | -------- |
