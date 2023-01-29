@@ -30,4 +30,5 @@
 | Jan 26 | [787. Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/) |
 | Jan 27 | [472. Concatenated Strings](https://leetcode.com/problems/concatenated-words/description/) |
 | Jan 28 | [352. Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/description/) |
+| Jan 29 | [460. LFU Cache](https://leetcode.com/problems/lfu-cache/description/) |
 | ----- | -------- |
