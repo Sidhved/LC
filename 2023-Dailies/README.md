@@ -31,4 +31,5 @@
 | Jan 27 | [472. Concatenated Strings](https://leetcode.com/problems/concatenated-words/description/) |
 | Jan 28 | [352. Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/description/) |
 | Jan 29 | [460. LFU Cache](https://leetcode.com/problems/lfu-cache/description/) |
+| Jan 30 | [1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/description/) |
 | ----- | -------- |
