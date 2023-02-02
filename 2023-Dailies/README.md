@@ -35,4 +35,5 @@
 | Jan 31 | [1626. Best Team With No Conflicts](https://leetcode.com/problems/best-team-with-no-conflicts/description/) |
 | ----- | -------- |
 | Feb 1 | [1071. Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/description/) |
+| Feb 2 | [953. Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/description/) |
 | ----- | -------- |
