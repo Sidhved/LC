@@ -40,4 +40,5 @@
 | Feb 4 | [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/description/) |
 | Feb 5 | [438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/description/) |
 | Feb 6 | [1470. Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/description/) |
+| Feb 7 | [904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/description/) |
 | ----- | -------- |
