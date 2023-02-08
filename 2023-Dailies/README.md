@@ -41,4 +41,5 @@
 | Feb 5 | [438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/description/) |
 | Feb 6 | [1470. Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/description/) |
 | Feb 7 | [904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/description/) |
+| Feb 8 | [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/description/) |
 | ----- | -------- |
