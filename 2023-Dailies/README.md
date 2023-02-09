@@ -42,4 +42,5 @@
 | Feb 6 | [1470. Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/description/) |
 | Feb 7 | [904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/description/) |
 | Feb 8 | [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/description/) |
+| Feb 9 | [2306. Naming a Company](https://leetcode.com/problems/naming-a-company/description/) |
 | ----- | -------- |
