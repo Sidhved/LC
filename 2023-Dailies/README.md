@@ -43,4 +43,5 @@
 | Feb 7 | [904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/description/) |
 | Feb 8 | [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/description/) |
 | Feb 9 | [2306. Naming a Company](https://leetcode.com/problems/naming-a-company/description/) |
+| Feb 10 | [1162. As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/description/) |
 | ----- | -------- |
