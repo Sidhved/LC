@@ -1,3 +1,5 @@
+import java.util.Queue;
+
 class Solution {
     public int maxDistance(int[][] grid) {
       final int m = grid.length;
