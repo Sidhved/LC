@@ -47,4 +47,5 @@
 | Feb 11 | [1129. Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors/description/) |
 | Feb 12 | [2477. Minimum Fuel Cost to Report to the Capital](https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital/description/) |
 | Feb 13 | [1523. Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/description/) |
+| Feb 14 | [67. Add Binary](https://leetcode.com/problems/add-binary/description/) |
 | ----- | -------- |
