@@ -1,3 +1,6 @@
+import java.util.LinkedList;
+import java.util.List;
+
 class Solution {
     public List<Integer> addToArrayForm(int[] A, int K) {
         List<Integer> ans = new LinkedList<>();
