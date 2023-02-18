@@ -51,4 +51,5 @@
 | Feb 15 | [989. Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/) |
 | Feb 16 | [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) |
 | Feb 17 | [783. Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/description/) |
+| Feb 18 | [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/) |
 | ----- | -------- |
