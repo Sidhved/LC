@@ -54,4 +54,5 @@
 | Feb 18 | [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/) |
 | Feb 19 | [103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/) |
 | Feb 20 | [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/) |
+| Feb 21 | [540. Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/description/) |
 | ----- | -------- |
