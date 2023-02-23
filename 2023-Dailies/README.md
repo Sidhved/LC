@@ -56,4 +56,5 @@
 | Feb 20 | [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/) |
 | Feb 21 | [540. Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/description/) |
 | Feb 22 | [1011. Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) |
+| Feb 23 | [502. IPO](https://leetcode.com/problems/ipo/description/) |
 | ----- | -------- |
