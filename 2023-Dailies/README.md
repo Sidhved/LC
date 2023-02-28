@@ -60,4 +60,6 @@
 | Feb 24 | [1675. Minimize Deviation in Array](https://leetcode.com/problems/minimize-deviation-in-array/description/) |
 | Feb 25 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
 | Feb 26 | [72. Edit Distance](https://leetcode.com/problems/edit-distance/) |
+| Feb 27 | [427. Construct Quad Tree](https://leetcode.com/problems/construct-quad-tree/description/) |
+| Feb 28 | [652. Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/) |
 | ----- | -------- |
