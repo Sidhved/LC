@@ -63,3 +63,4 @@
 | Feb 27 | [427. Construct Quad Tree](https://leetcode.com/problems/construct-quad-tree/description/) |
 | Feb 28 | [652. Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/) |
 | ----- | -------- |
+| Mar 1 | [912. Sort an Array](https://leetcode.com/problems/sort-an-array/description/) |
