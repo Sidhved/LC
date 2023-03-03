@@ -65,4 +65,5 @@
 | ----- | -------- |
 | Mar 1 | [912. Sort an Array](https://leetcode.com/problems/sort-an-array/description/) |
 | Mar 2 | [443. String Compression](https://leetcode.com/problems/string-compression/description/) |
+| Mar 3 | [28. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/) |
 | ----- | -------- |
