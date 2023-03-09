@@ -71,4 +71,5 @@
 | Mar 6 | [1539. Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/description/) |
 | Mar 7 | [2187. Minimum Time to Complete Trips](https://leetcode.com/problems/minimum-time-to-complete-trips/description/) |
 | Mar 8 | [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/description/) |
+| Mar 9 | [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/) |
 | ----- | -------- |
