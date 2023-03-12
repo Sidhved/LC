@@ -74,4 +74,5 @@
 | Mar 9 | [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/) |
 | Mar 10 | [382. Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/description/) |
 | Mar 11 | [109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/description/) |
+| Mar 12 | [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) | 
 | ----- | -------- |
