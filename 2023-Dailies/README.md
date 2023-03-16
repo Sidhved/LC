@@ -78,4 +78,5 @@
 | Mar 13 | [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) |
 | Mar 14 | [129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/description/) |
 | Mar 15 | [958. Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/description/) |
+| Mar 16 | [106. Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/) |
 | ----- | -------- |
