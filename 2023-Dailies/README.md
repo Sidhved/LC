@@ -83,4 +83,5 @@
 | Mar 18 | [1472. Design Browser History](https://leetcode.com/problems/design-browser-history/description/) |
 | Mar 19 | [211. Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/description/) |
 | Mar 20 | [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/description/) |
+| Mar 21 | [2348. Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays/description/) |
 | ----- | -------- |
