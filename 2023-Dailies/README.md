@@ -85,4 +85,5 @@
 | Mar 20 | [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/description/) |
 | Mar 21 | [2348. Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays/description/) |
 | Mar 22 | [2492. Minimum Score of a Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/description/) |
+| Mar 23 | [1319. Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/description/) |
 | ----- | -------- |
