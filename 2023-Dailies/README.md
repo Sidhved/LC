@@ -90,4 +90,5 @@
 | Mar 25 | [2316. Count Unreachable Pairs of Nodes in an Undirected Graph](https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/description/) |
 | Mar 26 | [2360. Longest Cycle in a Graph](https://leetcode.com/problems/longest-cycle-in-a-graph/description/) |
 | Mar 27 | [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/) |
+| Mar 28 | [983. Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/description/) |
 | ----- | -------- |
