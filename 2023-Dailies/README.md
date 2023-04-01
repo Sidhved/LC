@@ -95,3 +95,5 @@
 | Mar 30 | [87. Scramble String](https://leetcode.com/problems/scramble-string/) |
 | Mar 31 | [1444. Number of Ways of Cutting a Pizza](https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/description/) |
 | ----- | -------- |
+| Apr 1 | [704. Binary Search](https://leetcode.com/problems/binary-search/) |
+| ----- | -------- |
