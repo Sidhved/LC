@@ -96,4 +96,5 @@
 | Mar 31 | [1444. Number of Ways of Cutting a Pizza](https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/description/) |
 | ----- | -------- |
 | Apr 1 | [704. Binary Search](https://leetcode.com/problems/binary-search/) |
+| Apr 2 | [2300. Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/description/) |
 | ----- | -------- |
