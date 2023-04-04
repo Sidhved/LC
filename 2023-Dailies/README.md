@@ -98,4 +98,5 @@
 | Apr 1 | [704. Binary Search](https://leetcode.com/problems/binary-search/) |
 | Apr 2 | [2300. Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/description/) |
 | Apr 3 | [881. Boats to Save People](https://leetcode.com/problems/boats-to-save-people/description/) |
+| Apr 4 | [2405. Optimal Partition of String](https://leetcode.com/problems/optimal-partition-of-string/description/) |
 | ----- | -------- |
