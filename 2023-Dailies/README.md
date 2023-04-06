@@ -100,4 +100,5 @@
 | Apr 3 | [881. Boats to Save People](https://leetcode.com/problems/boats-to-save-people/description/) |
 | Apr 4 | [2405. Optimal Partition of String](https://leetcode.com/problems/optimal-partition-of-string/description/) |
 | Apr 5 | [2439. Minimize Maximum of Array](https://leetcode.com/problems/minimize-maximum-of-array/description/) |
+| Apr 6 | [1254. Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/description/) |
 | ----- | -------- |
