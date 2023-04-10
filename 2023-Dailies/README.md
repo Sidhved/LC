@@ -104,4 +104,5 @@
 | Apr 7 | [1020. Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/) |
 | Apr 8 | [133. Clone Graph](https://leetcode.com/problems/clone-graph/description/) |
 | Apr 9 | [1857. Largest Color Value in a Directed Graph](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/description/) |
+| Apr 10 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) |
 | ----- | -------- |
