@@ -106,4 +106,5 @@
 | Apr 9 | [1857. Largest Color Value in a Directed Graph](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/description/) |
 | Apr 10 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) |
 | Apr 11 | [2390. Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/description/) |
+| Apr 12 | [71. Simplify Path](https://leetcode.com/problems/simplify-path/description/) |
 | ----- | -------- |
