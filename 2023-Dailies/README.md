@@ -108,4 +108,5 @@
 | Apr 11 | [2390. Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/description/) |
 | Apr 12 | [71. Simplify Path](https://leetcode.com/problems/simplify-path/description/) |
 | Apr 13 | [946. Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/description/) |
+| Apr 14 | [516. Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/description/) |
 | ----- | -------- |
