@@ -114,4 +114,5 @@
 | Apr 17 | [1431. Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) |
 | Apr 18 | [1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/description/) |
 | Apr 19 | [1372. Longest ZigZag Path in a Binary Tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/description/) |
+| Apr 20 | [662. Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/description/) |
 | ----- | -------- |
