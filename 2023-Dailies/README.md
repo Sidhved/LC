@@ -116,4 +116,5 @@
 | Apr 19 | [1372. Longest ZigZag Path in a Binary Tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/description/) |
 | Apr 20 | [662. Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/description/) |
 | Apr 21 | [879. Profitable Schemes](https://leetcode.com/problems/profitable-schemes/description/) |
+| Apr 22 | [1312. Minimum Insertion Steps to Make a String Palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/description/) |
 | ----- | -------- |
