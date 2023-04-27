@@ -121,4 +121,5 @@
 | Apr 24 | [1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) |
 | Apr 25 | [2336. Smallest Number in Infinite Set](https://leetcode.com/problems/smallest-number-in-infinite-set/description/) |
 | Apr 26 | [258. Add Digits](https://leetcode.com/problems/add-digits/description/) |
+| Apr 27 | [319. Bulb Switcher](https://leetcode.com/problems/bulb-switcher/description/) |
 | ----- | -------- |
