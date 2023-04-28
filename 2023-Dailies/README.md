@@ -122,4 +122,5 @@
 | Apr 25 | [2336. Smallest Number in Infinite Set](https://leetcode.com/problems/smallest-number-in-infinite-set/description/) |
 | Apr 26 | [258. Add Digits](https://leetcode.com/problems/add-digits/description/) |
 | Apr 27 | [319. Bulb Switcher](https://leetcode.com/problems/bulb-switcher/description/) |
+| Apr 28 | [839. Similar String Groups](https://leetcode.com/problems/similar-string-groups/description/) |
 | ----- | -------- |
