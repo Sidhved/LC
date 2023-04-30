@@ -124,4 +124,5 @@
 | Apr 27 | [319. Bulb Switcher](https://leetcode.com/problems/bulb-switcher/description/) |
 | Apr 28 | [839. Similar String Groups](https://leetcode.com/problems/similar-string-groups/description/) |
 | Apr 29 | [1697. Checking Existence of Edge Length Limited Paths](https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths/description/) |
+| Apr 30 | [1579. Remove Max Number of Edges to Keep Graph Fully Traversable](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/description/) |
 | ----- | -------- |
