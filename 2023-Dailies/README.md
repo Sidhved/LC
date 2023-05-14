@@ -136,4 +136,8 @@
 | May 8 | [1572. Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/description/) |
 | May 9 | [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) |
 | May 10 | [59. Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/description/) |
+| May 11 | [1035. Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/) |
+| May 12 | [2140. Solving Questions With Brainpower](https://leetcode.com/problems/solving-questions-with-brainpower/description/) |
+| May 13 | [2466. Count Ways To Build Good Strings](https://leetcode.com/problems/count-ways-to-build-good-strings/description/) |
+| May 14 | [1799. Maximize Score After N Operations](https://leetcode.com/problems/maximize-score-after-n-operations/) |
 | ----- | -------- |
