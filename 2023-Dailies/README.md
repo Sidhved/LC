@@ -140,4 +140,8 @@
 | May 12 | [2140. Solving Questions With Brainpower](https://leetcode.com/problems/solving-questions-with-brainpower/description/) |
 | May 13 | [2466. Count Ways To Build Good Strings](https://leetcode.com/problems/count-ways-to-build-good-strings/description/) |
 | May 14 | [1799. Maximize Score After N Operations](https://leetcode.com/problems/maximize-score-after-n-operations/) |
+| May 15 | [1721. Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/description/) |
+| May 16 | [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/) |
+| May 17 | [2130. Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/description/) |
+| May 18 | [1557. Minimum Nuumber of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/description/) |
 | ----- | -------- |
